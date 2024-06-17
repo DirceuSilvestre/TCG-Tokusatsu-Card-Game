@@ -66,7 +66,9 @@ As cartas de recurso contém:
 - Descrição - dizendo o que a carta faz, se beneficia ou deprecia alguma outra carta, e etc;
 - Série - do qual o personagem veio;
 
+***
 
+! [modelo explicativo das cartas](TCG.jpg "Modelo Explicativo das Cartas")
 
 ***
 |**4. Pedreira Abandonada**|
@@ -83,8 +85,9 @@ Nas obras que estamos buscando simular, desde as primeiras temporadas, é caract
 - Herói/Monstro do dia - local onde fica a criatura principal, que está lutando durante a partida, como no pokémon card game;
 - Aliados - local onde ficam as criaturas aguardando para ser herói ou monstro do dia, é como o banco no jogo de cartas do pokémon;
 
+***
 
-
+! [modelo da pedreira abandonada](TCG(1).jpg "Modelo da Pedreira Abandonada - Campo de Batalha")
 
 ***
 |**5. Fases do Jogo**|
@@ -320,7 +323,7 @@ Explicando a imagem das costas da carta, ela representa a batalha da terra contr
 
 A busca pela diversão está no mesmo nível da busca pelo equilíbrio do jogo, para que, com tudo bem nivelado e equilibrado, não hajam problemas e injustiças para que o jogo corra da forma mais agradável possível.
 
-O jogadores tem a liberdade para criar as cartas de seus heróis e monstros preferidos, de recursos que mais gostaria de ver suas criaturas usando, seguindo todas as regras descritas anteriormente e nesta seção, com acesso aos moldes das cartas e o campo de batalha para impressão e uso.
+O jogadores tem a liberdade para criar as cartas de seus heróis e monstros preferidos, de recursos que mais gostaria de ver suas criaturas usando, seguindo todas as regras descritas anteriormente e nesta seção, com acesso aos [moldes das cartas](https://www.canva.com/design/DAGIWSxfP9I/s8FuzNNyvMk6bnhkpGoWUw/edit?utm_content=DAGIWSxfP9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) e o campo de batalha para impressão e uso.
 
 Liberdade inclusive, como dita no início, para alterar, incluir e criar sua versão das regras em cima da base já escrita, ou novas regras. Assim como cada grupo joga Uno com ou sem determinadas regras para cada número, que se diferem do livro de regras que vem com o baralho. Buscando, desta forma, que o próprio público de jogadores ao longo das partidas construa o modo de jogo e conjunto de regras mais usado e aceito.
 
