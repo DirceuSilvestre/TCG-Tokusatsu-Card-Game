@@ -1,4 +1,4 @@
-﻿:**TCG - Tokusatsu Card Game**:
+﻿|**TCG - Tokusatsu Card Game**| :----------------: |
 
 
 
