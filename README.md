@@ -331,7 +331,7 @@ Um dos desejos é a inclusão futura de habilidades das criaturas, como podem ve
 
 As regras citadas anteriormente para criaturas P, M e G, não precisam ser repetidas nesta seção, pois contamos com a compreensão e coerência no momento da criação, a partir de tudo que já foi descrito desde o início sobre o objetivo do jogo. Estando disponível minhas redes sociais e email para responder dúvidas, receber ideias e debater regras.
 
-![Modelo das Cartas](TCG(2).jpg "Modelo das Cartas")
+![Modelo das Cartas](TCG(3).jpg "Modelo das Cartas")
 
 
 
