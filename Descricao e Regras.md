@@ -1,9 +1,12 @@
-﻿|**TCG - Tokusatsu Card Game**| :----------------: |
+﻿|**TCG - Tokusatsu Card Game**| 
+| :-------------------------: |
 
 
 
 ***
-:**Premissa**:
+|**Premissa**|
+| :--------: |
+
 
 Baseado em episódios especiais e filmes que reúnem diversas franquias, como Super Hero Taisen Z, resolvi construir este card game com as 5 maiores produções japonesas de heróis e criaturas, como Kamen Rider, Super Sentai, Metal Hero, Ultraman e Kaiju.
 
