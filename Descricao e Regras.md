@@ -4,8 +4,7 @@
 
 
 ***
-|**Premissa**|
-| :--------: |
+**Premissa**
 
 
 Baseado em episódios especiais e filmes que reúnem diversas franquias, como Super Hero Taisen Z, resolvi construir este card game com as 5 maiores produções japonesas de heróis e criaturas, como Kamen Rider, Super Sentai, Metal Hero, Ultraman e Kaiju.
@@ -21,7 +20,8 @@ Ao final da leitura, estará pronto para jogar e criar suas próprias cartas, co
 
 
 ***
-:**1. O Deck**:
+|**1. O Deck**|
+| :--------: |
 
 Ele representa os heróis da sua infância, as séries e filmes que você assistiu, as que mais gostou. Poderá simbolizar episódios como Totalmente Vermelho, escolhendo somente criaturas desta cor, entre outros.
 
@@ -31,7 +31,8 @@ Inicialmente tem entre 40 e 60 cartas, sendo elas criaturas e recursos. Não há
 
 
 
-:**2. Criaturas**:
+|**2. Criaturas**|
+| :--------: |
 
 São todos os seres que irão batalhar, os personagens dos tokus, os integrantes das equipes, os viajantes do espaço, do tempo, os vilões, os animais, e por aí vai, por exemplo: Issamu Minami, Rita Repulsa, Emu Hojo, Godzilla, Boneco de Massa, Mothra, Hayata, Thunder Megazord, Ryota Ozawa, e etc.
 
@@ -47,7 +48,8 @@ As cartas de criaturas contém:
 
 
 
-:**3. Recursos**:
+|**3. Recursos**|
+| :--------: |
 
 São os itens e ações que irão apoiar sua estratégia, usados ou não pelas criaturas, como os objetos, veículos, armas, golpes especiais, itens de transformação, convocações, e etc. Exemplo: Rider Kick, Super Nave-Mãe de Combate Interplanetário Daileon, Ranger Stick...
 
@@ -64,7 +66,8 @@ As cartas de recurso contém:
 
 
 
-:**4. Pedreira Abandonada**:
+|**4. Pedreira Abandonada**|
+| :--------: |
 
 Nas obras que estamos buscando simular, desde as primeiras temporadas, é caractetístico que as lutas ocorram em pedreiras vazias. Mesmo que ao longo do tempo tenhamos visto um pouco mais das lutas no meio da cidade, porém batalhas lendárias e episódios especiais também utilizam o espaço de alguma pedreira para gravação. Então por este motivo a arena ou zona de batalha terá este nome neste jogo, mas para a facilidade de explicação das regas chamaremos aqui de campo de batalha, e cada jogador tem o seu lado, que é formado pelos espaços com os nomes:
 
@@ -79,8 +82,8 @@ Nas obras que estamos buscando simular, desde as primeiras temporadas, é caract
 
 
 
-:**5. Fases do Jogo**:
-
+|**5. Fases do Jogo**|
+| :--------: |
 
 
 
@@ -104,7 +107,8 @@ O turno é composto de 2 partes, a sua vez e a do oponente, e em cada vez podem 
 
 
 
-:**6. Regras do Jogo**:
+|**6. Regras do Jogo**|
+| :--------: |
 
 As regras que regem as partidas do TCG - Tokusatsu Card Game não são incomuns para quem já jogou o básico de algum card game, e apresentam semelhanças que facilitam a compreensão. Através de um fork neste projeto, as pessoas podem contribuir com alterações e inclusões, para que as regras fiquem mais polidas e testadas, e alcençemos um jogo cada vez mais diverdito. 
 
@@ -128,7 +132,8 @@ Então as Formas de Vencer são:
 
 
 
-:**Criatura**:
+|**Criatura**|
+| :--------: |
 
 **Tamanho**
 
@@ -180,10 +185,10 @@ As cartas de recurso que aumentam o poder da criatura não aumentam seus pontos 
 
 As criaturas podem ser de 4 tipos:
 
-- `    `Humano - creio ser auto-explicativo, são os personagens que se transformam em sentai hero, em kamen rider, em ultra man, exceto aqueles que vieram de outros planetas, como o Gavan que veio da estrela Bird, e outros, pois são considerados aliens.
-- `    `Mutação - é o personagem que sofreu exposição a alguma radiação ou outra coisa que o fizesse mudar de forma, como o Godzilla e outros da sua obra, até mesmo os primeiros kamen riders podem ser considerados mutações, inclusive isso foi mudando durante as épocas e até mesmo algumas armaduras são máquinas, outras são aliens, como os poderes da armadura do kamen rider build. a mutação também pode ser usada para criaturas que não se encaixam nas outras categorias, como os bonecos de massa, que não são humanos, aliens ou máquinas.
-- `    `Máquina - robôs, pura e simplesmente hahaha. metalder é um exemplo, jiban também, kamen rider agito, rita robô, entre outros.
-- `    `Alien - são nossos visitantes, seres que vieram de outros planetas para a luta na terra, afim de protegê-la ou ataca-la, como ultraman, rita repulsa, entre outros viajantes do espaço.
+- Humano - creio ser auto-explicativo, são os personagens que se transformam em sentai hero, em kamen rider, em ultra man, exceto aqueles que vieram de outros planetas, como o Gavan que veio da estrela Bird, e outros, pois são considerados aliens.
+- Mutação - é o personagem que sofreu exposição a alguma radiação ou outra coisa que o fizesse mudar de forma, como o Godzilla e outros da sua obra, até mesmo os primeiros kamen riders podem ser considerados mutações, inclusive isso foi mudando durante as épocas e até mesmo algumas armaduras são máquinas, outras são aliens, como os poderes da armadura do kamen rider build. a mutação também pode ser usada para criaturas que não se encaixam nas outras categorias, como os bonecos de massa, que não são humanos, aliens ou máquinas.
+- Máquina - robôs, pura e simplesmente hahaha. metalder é um exemplo, jiban também, kamen rider agito, rita robô, entre outros.
+- Alien - são nossos visitantes, seres que vieram de outros planetas para a luta na terra, afim de protegê-la ou ataca-la, como ultraman, rita repulsa, entre outros viajantes do espaço.
 
 As vantagens são: Humano > Mutação > Máquina > Humano. Alien é neutro.
 
@@ -191,7 +196,8 @@ Então Humano ganha +1 de poder contra Mutação, que ganha +1 de poder contra M
 
 
 ***
-:**Recurso**:
+|**Recurso**|
+| :--------: |
 
 Vamos iniciar com os tipos de cartas de recurso, e o que elas podem e não podem fazer.
 
@@ -268,8 +274,10 @@ Embaralha a sua mão ou do oponente no próprio deck.
 Equipar carta na criatura do oponente como um vírus para dificultar seus ataques ou enfraquece-lo, ou desarma-lo retirando seus equipamentos. (vai precisar de uma regra nova para equilibrar o decréscimo de poder se houver)
 
 
-:**7. Regras Para Criação de Cartas**:
+|**7. Regras Para Criação de Cartas**|
+| :--------: |
 
+!!!
 Vamos utilizar cada imagem, nome, e poder como uma carta de criatura única, por exemplo: Issamu Minami, a imagem do exemplo, poder 3. Esta é uma carte única, então para ter outro Issamu Minami terá que usar outra imagem e outro poder sem ser o 3. Se for a mesma imagem então nome diferente, o nome do ator por exemplo, e poder diferente. Caso seja o o mesmo poder então imagem e nome diferente. 
 
 Cartas como Rita Repulsa e Rita Robô são cartas diferentes, uma alien e outra robô, mesmo que tenham o mesmo poder precisam ter nomes diferentes, tipos diferentes, para que hajam vantagens diferentes e coisas do tipo.
