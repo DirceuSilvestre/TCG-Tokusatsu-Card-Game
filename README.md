@@ -68,7 +68,7 @@ As cartas de recurso contém:
 
 ***
 
-! [modelo explicativo das cartas](TCG.jpg "Modelo Explicativo das Cartas")
+![Modelo Explicativo das Cartas](TCG.jpg "Modelo Explicativo das Cartas")
 
 ***
 |**4. Pedreira Abandonada**|
@@ -87,7 +87,7 @@ Nas obras que estamos buscando simular, desde as primeiras temporadas, é caract
 
 ***
 
-! [modelo da pedreira abandonada](TCG(1).jpg "Modelo da Pedreira Abandonada - Campo de Batalha")
+![Modelo da Pedreira Abandonada - Campo de Batalha](TCG(1).jpg "Modelo da Pedreira Abandonada - Campo de Batalha")
 
 ***
 |**5. Fases do Jogo**|
