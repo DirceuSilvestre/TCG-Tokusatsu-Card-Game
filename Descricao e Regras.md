@@ -7,6 +7,7 @@
 **Premissa**
 
 
+
 Baseado em episódios especiais e filmes que reúnem diversas franquias, como Super Hero Taisen Z, resolvi construir este card game com as 5 maiores produções japonesas de heróis e criaturas, como Kamen Rider, Super Sentai, Metal Hero, Ultraman e Kaiju.
 
 O jogo foi idealizado a partir da premissa de desenvolvimento das séries e seus episódios, com o herói que é chamado para enfrentar o monstro do dia, com ou sem sua equipe, usando itens de transformação, armas, veículos, golpes especiais, e até mesmo robôs gigantes.
@@ -16,6 +17,7 @@ O objetivo é criar e controlar seu próprio time de seres em uma batalha lendá
 O projeto é aberto, para que todos possam fazer suas cartas com seus heróis preferidos, obedecendo as regras de criação, e um fork caso queiram modificar ou acrescentar regras no jogo. E também porque não tenho direito sobre as obras, este é um projeto de fã para fã.
 
 Ao final da leitura, estará pronto para jogar e criar suas próprias cartas, com acesso aos designs pré prontos.
+
 
 
 
@@ -53,7 +55,9 @@ As cartas de criaturas contém:
 
 São os itens e ações que irão apoiar sua estratégia, usados ou não pelas criaturas, como os objetos, veículos, armas, golpes especiais, itens de transformação, convocações, e etc. Exemplo: Rider Kick, Super Nave-Mãe de Combate Interplanetário Daileon, Ranger Stick...
 
+
 As cartas de recurso contém:
+
 
 - Recurso - escrito em cima, para diferenciar das cartas de criatura;
 - Nome - do item, arma, veículo, golpe, item de transformação ou ação;
@@ -70,6 +74,7 @@ As cartas de recurso contém:
 | :--------: |
 
 Nas obras que estamos buscando simular, desde as primeiras temporadas, é caractetístico que as lutas ocorram em pedreiras vazias. Mesmo que ao longo do tempo tenhamos visto um pouco mais das lutas no meio da cidade, porém batalhas lendárias e episódios especiais também utilizam o espaço de alguma pedreira para gravação. Então por este motivo a arena ou zona de batalha terá este nome neste jogo, mas para a facilidade de explicação das regas chamaremos aqui de campo de batalha, e cada jogador tem o seu lado, que é formado pelos espaços com os nomes:
+
 
 - Deck - local onde estarão todas as suas cartas de criaturas e recursos para a grande batalha, como é comum em outros card games como magic, com manipulações do seu conteúdo e etc;
 - Sacrifícios - todo herói se sacrifica por uma boa causa, para trazer a paz, e aqui são postas as cartas que são sacrificadas no jogo para um bem maior, e ela poderá ser manipulada por cartas que determinam isso, assim como o deck, pois pense neste local como o cemitério de outros cardgames;
@@ -93,8 +98,10 @@ Nas obras que estamos buscando simular, desde as primeiras temporadas, é caract
 1. Embaralhe as cartas do seu deck, e compre 7 cartas do topo.
 1. Verifique se há alguma criatura P na sua mão.
 1. Coloque a criatura P como Herói/Monstro do Dia e os outros como aliados.
+!!!
 
 **Turno**
+
 
 O turno é composto de 2 partes, a sua vez e a do oponente, e em cada vez podem executar as seguintes ações:
 !!!
@@ -103,7 +110,7 @@ O turno é composto de 2 partes, a sua vez e a do oponente, e em cada vez podem 
 1. Ligue uma carta M a uma carta P.
 1. Use suas cartas de Reforço.
 1. Ataque.
-
+!!!
 
 
 
@@ -118,6 +125,8 @@ Um exemplo a inclusão do símbolo da obra ao qual aquele personagem pertence, v
 
 Começando pelas formas de vencer o jogo:
 
+
+
 **Formas de Vencer**
 
 Cada jogador começa o jogo com 200 de verba de contratação de criaturas para grande batalha. Quando uma criatura é vencida, e não sacrificada, a de maior poder vai para o Financeiro junto com as cartas equipadas, e o valor total desse poder somado aos acrescimos das cartas que a equipavam são subtraído dos 200 de verba.
@@ -128,24 +137,33 @@ Então as Formas de Vencer são:
 !!!
 1. Zerando a verba do oponente.
 1. Não tendo mais cartas no deck na hora de sacar.
-
+!!!
 
 
 
 |**Criatura**|
 | :--------: |
 
+
+
 **Tamanho**
 
-- `    `P são como se fossem as criaturas básicas, algumas delas podem ser colocadas no campo de batalha de forma gratuita, sem nenhum tipo de sacrifício, outras precisarão do sacrifício de criaturas para entrar no campo de batalha. (isto será melhor explicado na parte sobre o poder das criaturas)
-- `    `M são como se fossem as evoluções, porém no nosso jogo elas são as transformações, os kamen riders, os ultras, sentai heroes, vilões (estes no caso poderão também ser P como goldar, rita repulsa...) e etc. elas são colocadas em cima da carta P que o jogador quiser, e para baixar também depende do poder, sendo algumas de graça e outras necessitando de sacrifício para entrar no campo de batalha, mas todas elas dependendo de item de transformação. (isto será melhor explicado na parte sobre o poder das criaturas)
-- `    `G são os zords, megazords, kaijus (podendo eles serem do tamanho M também), entre outros, são as criaturas gigantes, com um valor de poder fixo e um limite de quantidade de ataques, além da regra de sacrifício para coloca-lo no campo de batalha. 
+
+
+- P são como se fossem as criaturas básicas, algumas delas podem ser colocadas no campo de batalha de forma gratuita, sem nenhum tipo de sacrifício, outras precisarão do sacrifício de criaturas para entrar no campo de batalha. (isto será melhor explicado na parte sobre o poder das criaturas)
+- M são como se fossem as evoluções, porém no nosso jogo elas são as transformações, os kamen riders, os ultras, sentai heroes, vilões (estes no caso poderão também ser P como goldar, rita repulsa...) e etc. elas são colocadas em cima da carta P que o jogador quiser, e para baixar também depende do poder, sendo algumas de graça e outras necessitando de sacrifício para entrar no campo de batalha, mas todas elas dependendo de item de transformação. (isto será melhor explicado na parte sobre o poder das criaturas)
+- G são os zords, megazords, kaijus (podendo eles serem do tamanho M também), entre outros, são as criaturas gigantes, com um valor de poder fixo e um limite de quantidade de ataques, além da regra de sacrifício para coloca-lo no campo de batalha. 
+
+
 
 **Regra Especial G**
 
 As criaturas de tamanho G precisam de uma regra especial devido a forma como aparecem na série e seu grande poder, para poder haver um equilíbrio no jogo.
 
 Primeiro que elas só podem ser colocadas em jogo 2 vezes. Segundo que para entrar no campo de batalha deve sacrificar algumas criaturas (mais nas regras de invocação). Terceiro que ao entrar em campo de batalha vão direto para a parte de herói/monstro do dia, em cima de uma carta M. Quarto que só podem atacar 5 vezes quando estão no campo de batalha, após isso, caso não tenha sido derrotado, vai para a área de sacrifício com todas as cartas abaixo. Caso tenha sido vencida, a criatura G vai para o Financeiro.
+
+
+
 
 **Poder & Sacrifício**
 
@@ -173,6 +191,8 @@ Criaturas G só podem ser baixadas sacrificando 4 criaturas M de qualquer poder.
 
 O máximo de poder que uma criatura pode chegar é +3 além do poder que está na carta e delimitado nesta seção, então uma criatura P de poder 10 pode ter até 13 de poder, com 10 na carta e +3 dividos desta forma, +1 habilidade, +1 golpe especial, +1 de uma carta com efeito instantâneo ou constante. Ou seja, se uma criatura está recebendo +1 de poder de uma carta constante não pode receber +1 de poder de uma carta instantanea, e vice versa. E as criaturas não podem receber mais do que 3 de poder além do seu limite de poder na carta, para não desequilibrar o jogo.
 
+
+
 **Ponto de Vida**
 
 Os pontos de vida das criaturas são exatamente seus valores de poder.
@@ -180,6 +200,9 @@ Os pontos de vida das criaturas são exatamente seus valores de poder.
 Ao tomar dano, no valor de poder da criatura do oponente, coloque um marcador deste mesmo valor na sua criatura, recomendável 1 D20, e quando o marcador chegar ao mesmo número de poder da sua criatura, ela é vencida e vai para o Financeiro.
 
 As cartas de recurso que aumentam o poder da criatura não aumentam seus pontos de vida, somente se o texto da carta de recurso explicitamente disser que o faz, como na carta de recurso do exemplo. E as cartas de recurso não podem aumentar os pontos de vida da criatura além de 3 por conta do equilíbrio do jogo.
+
+
+
 
 **Tipo**
 
@@ -199,7 +222,10 @@ Então Humano ganha +1 de poder contra Mutação, que ganha +1 de poder contra M
 |**Recurso**|
 | :--------: |
 
+
 Vamos iniciar com os tipos de cartas de recurso, e o que elas podem e não podem fazer.
+
+
 
 **Arma**
 
@@ -219,6 +245,8 @@ As armas só podem somar +1 no poder da criatura, ou +3 de pontos de vida, segui
 
 +3 de ponto de vida, descarta duas da mão ou duas do deck
 
+
+
 **Veículo**
 
 Exemplo: nave, moto, carro, etc.
@@ -235,6 +263,8 @@ comprar 3 cartas, descarta 2.
 
 O mesmo para busca de criaturas, para equilibrar o jogo de forma que, o que a carta faz, não fique tão poderoso que sejam extremamente usado em um possível metagame, pois o intuito é trazer, além do equilíbrio, variedade nas possibilidades de deck voltado a futuros campeonatos.
 
+
+
 **Item de transformação**
 
 Exemplo: morfador, cinto, pulseira, e outros itens que são usados para ativar a transformação do personagem.
@@ -243,6 +273,8 @@ Efeito: instantâneo.
 
 Pode ser usado para tranformar em criatura específica ou em qualquer criatura, e é necessário para transformar criatura P em M.
 
+
+
 **Terreno**
 
 Exemplo: lua, terra, galáxia, dentro de alguma nave, etc.
@@ -250,6 +282,8 @@ Exemplo: lua, terra, galáxia, dentro de alguma nave, etc.
 Efeito: constante.
 
 Pode ser um benefício constante ao poder de criaturas de uma mesma obra, de criaturas da mesma série, ou criaturas de obras diferentes, compra de uma carta a mais por turno para os dois jogadores, as possibilidades são infinitas e podem ser inspiradas em cartas de outros card games.
+
+
 
 **Todos os possíveis efeitos de cartas de Recurso**
 
@@ -293,7 +327,7 @@ Liberdade inclusive, como dita no início, para alterar, incluir e criar sua ver
 Um dos desejos é a inclusão futura de habilidades das criaturas, como podem ver pelo design já pronto. Porém a partir de tudo que já havia criado não consegui idealizar seu funcionamento de forma equilibrada com tudo que tinha.
 
 As regras citadas anteriormente para criaturas P, M e G, não precisam ser repetidas nesta seção, pois contamos com a compreensão e coerência no momento da criação, a partir de tudo que já foi descrito desde o início sobre o objetivo do jogo. Estando disponível minhas redes sociais e email para responder dúvidas, receber ideias e debater regras.
-
+!!!
 
 
 
