@@ -32,7 +32,7 @@ Nele terá o elenco escalado por você para a grande batalha que enfrenterá, in
 Inicialmente tem entre 40 e 60 cartas, sendo elas criaturas e recursos. Não há limite para a quantidade de recursos nem criaturas, porém só pode ter 4 cópias da mesma carta no seu deck, mesmo que a arte seja alternada.
 
 
-
+***
 |**2. Criaturas**|
 | :--------: |
 
@@ -49,7 +49,7 @@ As cartas de criaturas contém:
 
 
 
-
+***
 |**3. Recursos**|
 | :--------: |
 
@@ -68,8 +68,7 @@ As cartas de recurso contém:
 
 
 
-
-
+***
 |**4. Pedreira Abandonada**|
 | :--------: |
 
@@ -87,33 +86,34 @@ Nas obras que estamos buscando simular, desde as primeiras temporadas, é caract
 
 
 
+***
 |**5. Fases do Jogo**|
 | :--------: |
 
 
 
 **Início**
-!!!
+
 1. Decida quem vai iniciar a partida, com cara ou coroa, ou de outra forma amigável e justa.
 1. Embaralhe as cartas do seu deck, e compre 7 cartas do topo.
 1. Verifique se há alguma criatura P na sua mão.
 1. Coloque a criatura P como Herói/Monstro do Dia e os outros como aliados.
-!!!
+
 
 **Turno**
 
 
 O turno é composto de 2 partes, a sua vez e a do oponente, e em cada vez podem executar as seguintes ações:
-!!!
+
 1. Compre uma carta.
 1. Coloque criaturas P no seu devido local vago no campo de batalha.
 1. Ligue uma carta M a uma carta P.
 1. Use suas cartas de Reforço.
 1. Ataque.
-!!!
 
 
 
+***
 |**6. Regras do Jogo**|
 | :--------: |
 
@@ -134,10 +134,10 @@ Cada jogador começa o jogo com 200 de verba de contratação de criaturas para 
 Exemplo: Digamos que tenho um Issamu Minami, tamanho P com 5 de poder, em baixo de Shadow Moon carta M com 20 de poder, e equipado nele um arco da zyuranger rosa mais o golpe frontal do ninja jiraya cada um dando +1 de poder, totalizando 22 de poder para o Shadow Moon. Então quando a criatura é derrotada, a carta do Issamu Minami vai para o sacrifício, e o Shadow Moon mais as duas cartas de equipamento vão para o Financeiro, fazendo com que o jogador fique com 200 - 22 = 178 pontos de verba restantes.
 
 Então as Formas de Vencer são:
-!!!
+
 1. Zerando a verba do oponente.
 1. Não tendo mais cartas no deck na hora de sacar.
-!!!
+
 
 
 
@@ -218,7 +218,7 @@ As vantagens são: Humano > Mutação > Máquina > Humano. Alien é neutro.
 Então Humano ganha +1 de poder contra Mutação, que ganha +1 de poder contra Máquina, que ganha +1 de poder contra Humano.
 
 
-***
+
 |**Recurso**|
 | :--------: |
 
@@ -307,11 +307,11 @@ Embaralha a sua mão ou do oponente no próprio deck.
 
 Equipar carta na criatura do oponente como um vírus para dificultar seus ataques ou enfraquece-lo, ou desarma-lo retirando seus equipamentos. (vai precisar de uma regra nova para equilibrar o decréscimo de poder se houver)
 
-
+***
 |**7. Regras Para Criação de Cartas**|
 | :--------: |
 
-!!!
+
 Vamos utilizar cada imagem, nome, e poder como uma carta de criatura única, por exemplo: Issamu Minami, a imagem do exemplo, poder 3. Esta é uma carte única, então para ter outro Issamu Minami terá que usar outra imagem e outro poder sem ser o 3. Se for a mesma imagem então nome diferente, o nome do ator por exemplo, e poder diferente. Caso seja o o mesmo poder então imagem e nome diferente. 
 
 Cartas como Rita Repulsa e Rita Robô são cartas diferentes, uma alien e outra robô, mesmo que tenham o mesmo poder precisam ter nomes diferentes, tipos diferentes, para que hajam vantagens diferentes e coisas do tipo.
@@ -327,7 +327,7 @@ Liberdade inclusive, como dita no início, para alterar, incluir e criar sua ver
 Um dos desejos é a inclusão futura de habilidades das criaturas, como podem ver pelo design já pronto. Porém a partir de tudo que já havia criado não consegui idealizar seu funcionamento de forma equilibrada com tudo que tinha.
 
 As regras citadas anteriormente para criaturas P, M e G, não precisam ser repetidas nesta seção, pois contamos com a compreensão e coerência no momento da criação, a partir de tudo que já foi descrito desde o início sobre o objetivo do jogo. Estando disponível minhas redes sociais e email para responder dúvidas, receber ideias e debater regras.
-!!!
+
 
 
 
